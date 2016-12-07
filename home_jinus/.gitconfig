@@ -1,2 +1,5 @@
+[core]
+excludesfile = /Users/jwlee/.gitignore_global
+
 [alias]
 lg = log --all --decorate --oneline --graph --abbrev-commit
